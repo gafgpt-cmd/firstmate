@@ -475,6 +475,10 @@
     {
       "path": "skills/stow/SKILL.md",
       "audience": "public-product"
+    },
+    {
+      "path": "docs/home-layout-reference.md",
+      "audience": "agent-runtime"
     }
   ]
 }
